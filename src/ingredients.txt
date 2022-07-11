@@ -1,0 +1,1 @@
+egg:piece;egg_yolk:piece;egg_white:piece;potato:size;tomato:piece;onion:piece;garlic:piece;olive_oil:ml;
